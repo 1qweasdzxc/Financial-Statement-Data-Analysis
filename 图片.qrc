@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="1">
+    <file>start.jpg</file>
+  </qresource>
+  <qresource prefix="2">
+    <file>exit.png</file>
+  </qresource>
+  <qresource prefix="3">
+    <file>min.png</file>
+  </qresource>
+</RCC>
